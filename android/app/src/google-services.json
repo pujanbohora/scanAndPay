@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62212551382",
+    "project_id": "juttanew-face7",
+    "storage_bucket": "juttanew-face7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62212551382:android:7bf4448e05459428f24f77",
+        "android_client_info": {
+          "package_name": "com.example.juttaaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62212551382-i2lfofoejd25la764mkd168b76sk22tu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcz8gFTN455x87wTZIpapZciUkpMiSINU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62212551382-i2lfofoejd25la764mkd168b76sk22tu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
