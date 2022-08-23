@@ -199,7 +199,27 @@ class _CartState extends State<Cart> {
                         ],
                       ),
                     ),
-                    InkWell(
+                    GestureDetector(
+                      child: Container(
+                        margin: EdgeInsets.only(right: 25),
+                        padding: EdgeInsets.all(25),
+                        decoration: BoxDecoration(
+                            color: Colors.blue[600],
+                            borderRadius: BorderRadius.circular(15)),
+                        child: Row(
+                          mainAxisAlignment: MainAxisAlignment.center,
+                          children: <Widget>[
+                            Text(
+                              "Pay",
+                              textAlign: TextAlign.center,
+                              style: TextStyle(
+                                fontWeight: FontWeight.w900,
+                                fontSize: 17,
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
                       onTap: () {
                         KhaltiScope.of(context).pay(
                           config: PaymentConfig(
@@ -232,32 +252,8 @@ class _CartState extends State<Cart> {
                                 .showSnackBar(cancelsnackBar);
                           },
                         );
+                        // openCheckout();
                       },
-                      child: GestureDetector(
-                        child: Container(
-                          margin: EdgeInsets.only(right: 25),
-                          padding: EdgeInsets.all(25),
-                          decoration: BoxDecoration(
-                              color: Colors.blue[600],
-                              borderRadius: BorderRadius.circular(15)),
-                          child: Row(
-                            mainAxisAlignment: MainAxisAlignment.center,
-                            children: <Widget>[
-                              Text(
-                                "Pay",
-                                textAlign: TextAlign.center,
-                                style: TextStyle(
-                                  fontWeight: FontWeight.w900,
-                                  fontSize: 17,
-                                ),
-                              ),
-                            ],
-                          ),
-                        ),
-                        onTap: () {
-                          // openCheckout();
-                        },
-                      ),
                     ),
                   ],
                 ),

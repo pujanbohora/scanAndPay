@@ -32,7 +32,6 @@ class _MyAppState extends State<MyApp> {
     ]);
   }
 
-  
   @override
   Widget build(BuildContext context) {
     return ChangeNotifierProvider(
@@ -50,16 +49,19 @@ class _MyAppState extends State<MyApp> {
               begin: Alignment.topRight,
               end: Alignment.bottomCenter,
             )),
-            child:  GetMaterialApp(
-        title: 'Jutta Pasal',
-        debugShowCheckedModeBanner: false,
-        navigatorKey: navigatorKey,
-        theme: ThemeData(
-          brightness: Brightness.light,
-          primaryColor: Colors.white,
-        ),
-        home: const Splash(),
-      ),
+            child: GetMaterialApp(
+              localizationsDelegates: const [
+                KhaltiLocalizations.delegate,
+              ],
+              title: 'Jutta Pasal',
+              debugShowCheckedModeBanner: false,
+              navigatorKey: navigatorKey,
+              theme: ThemeData(
+                brightness: Brightness.light,
+                primaryColor: Colors.white,
+              ),
+              home: const Splash(),
+            ),
           );
         },
       ),
@@ -76,5 +78,3 @@ class _MyAppState extends State<MyApp> {
     );
   }
 }
-
-

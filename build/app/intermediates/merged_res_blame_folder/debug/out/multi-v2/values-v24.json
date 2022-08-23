@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\rilon\\Jutta_pasal\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "outputFile": "/Users/pawan/Documents/selfcheckout/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\ca40295d49a16647cfd221855c45d1ee\\media-1.0.0\\res\\values-v24\\values-v24.xml",
+                    "source": "/Users/pawan/.gradle/caches/transforms-2/files-2.1/ca40295d49a16647cfd221855c45d1ee/media-1.0.0/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\ee2cd5cce0601cd6a9c4888018d5b6ae\\appcompat-1.2.0\\res\\values-v24\\values-v24.xml",
+                    "source": "/Users/pawan/.gradle/caches/transforms-2/files-2.1/ee2cd5cce0601cd6a9c4888018d5b6ae/appcompat-1.2.0/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

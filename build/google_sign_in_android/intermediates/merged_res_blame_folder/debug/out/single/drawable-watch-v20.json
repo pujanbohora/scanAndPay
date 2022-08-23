@@ -1,14 +1,14 @@
 [
     {
-        "merged": "E:\\rilon\\Jutta_pasal\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
-        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\6bf8360b9811ec87064d3308e133f1c3\\jetified-play-services-auth-20.0.1\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
+        "merged": "/Users/pawan/Documents/selfcheckout/build/google_sign_in_android/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/pawan/.gradle/caches/transforms-2/files-2.1/6bf8360b9811ec87064d3308e133f1c3/jetified-play-services-auth-20.0.1/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
     },
     {
-        "merged": "E:\\rilon\\Jutta_pasal\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml",
-        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\6bf8360b9811ec87064d3308e133f1c3\\jetified-play-services-auth-20.0.1\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
+        "merged": "/Users/pawan/Documents/selfcheckout/build/google_sign_in_android/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/pawan/.gradle/caches/transforms-2/files-2.1/6bf8360b9811ec87064d3308e133f1c3/jetified-play-services-auth-20.0.1/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
     },
     {
-        "merged": "E:\\rilon\\Jutta_pasal\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
-        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\6bf8360b9811ec87064d3308e133f1c3\\jetified-play-services-auth-20.0.1\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+        "merged": "/Users/pawan/Documents/selfcheckout/build/google_sign_in_android/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/pawan/.gradle/caches/transforms-2/files-2.1/6bf8360b9811ec87064d3308e133f1c3/jetified-play-services-auth-20.0.1/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
     }
 ]

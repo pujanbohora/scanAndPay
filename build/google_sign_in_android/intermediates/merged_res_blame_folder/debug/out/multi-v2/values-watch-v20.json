@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\rilon\\Jutta_pasal\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\values-watch-v20\\values-watch-v20.xml",
+            "outputFile": "/Users/pawan/Documents/selfcheckout/build/google_sign_in_android/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\6bf8360b9811ec87064d3308e133f1c3\\jetified-play-services-auth-20.0.1\\res\\values-watch-v20\\values.xml",
+                    "source": "/Users/pawan/.gradle/caches/transforms-2/files-2.1/6bf8360b9811ec87064d3308e133f1c3/jetified-play-services-auth-20.0.1/res/values-watch-v20/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11",
                         "startColumns": "0,0,0,0,0,0,0,0",
@@ -23,10 +23,10 @@
             ]
         },
         {
-            "outputFile": "E:\\rilon\\Jutta_pasal\\build\\google_sign_in_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
+            "outputFile": "/Users/pawan/Documents/selfcheckout/build/google_sign_in_android/intermediates/res/merged/debug/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\6bf8360b9811ec87064d3308e133f1c3\\jetified-play-services-auth-20.0.1\\res\\values-watch-v20\\values.xml",
+                    "source": "/Users/pawan/.gradle/caches/transforms-2/files-2.1/6bf8360b9811ec87064d3308e133f1c3/jetified-play-services-auth-20.0.1/res/values-watch-v20/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11",
                         "startColumns": "0,0,0,0,0,0,0,0",

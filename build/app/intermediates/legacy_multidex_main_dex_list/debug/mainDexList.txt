@@ -259,14 +259,6 @@ com/google/android/gms/measurement/internal/zzhe.class
 com/google/android/gms/measurement/internal/zzhf.class
 com/google/android/gms/measurement/internal/zzlt.class
 com/google/android/gms/stats/CodePackage.class
-com/google/android/gms/wallet/CreateWalletObjectsRequest$CreateMode.class
-com/google/android/gms/wallet/InstrumentInfo$CardClass.class
-com/google/android/gms/wallet/WalletConstants$BillingAddressFormat.class
-com/google/android/gms/wallet/WalletConstants$CardClass.class
-com/google/android/gms/wallet/WalletConstants$CardNetwork.class
-com/google/android/gms/wallet/WalletConstants$PaymentMethod.class
-com/google/android/gms/wallet/WalletConstants$PaymentMethodTokenizationType.class
-com/google/android/gms/wallet/WalletConstants$TotalPriceStatus.class
 com/google/android/material/appbar/AppBarLayout$LayoutParams$ScrollFlags.class
 com/google/android/material/badge/BadgeDrawable$BadgeGravity.class
 com/google/android/material/badge/ExperimentalBadgeUtils.class

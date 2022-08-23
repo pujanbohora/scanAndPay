@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\rilon\\Jutta_pasal\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\values-my\\values-my.xml",
+            "outputFile": "/Users/pawan/Documents/selfcheckout/build/image_picker_android/intermediates/incremental/mergeDebugResources/merged.dir/values-my/values-my.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\38b5be107bf001366f899e2ed7666621\\core-1.8.0\\res\\values-my\\values-my.xml",
+                    "source": "/Users/pawan/.gradle/caches/transforms-2/files-2.1/38b5be107bf001366f899e2ed7666621/core-1.8.0/res/values-my/values-my.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "E:\\rilon\\Jutta_pasal\\build\\image_picker_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-my\\values-my.xml",
+            "outputFile": "/Users/pawan/Documents/selfcheckout/build/image_picker_android/intermediates/res/merged/debug/values-my/values-my.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\38b5be107bf001366f899e2ed7666621\\core-1.8.0\\res\\values-my\\values-my.xml",
+                    "source": "/Users/pawan/.gradle/caches/transforms-2/files-2.1/38b5be107bf001366f899e2ed7666621/core-1.8.0/res/values-my/values-my.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

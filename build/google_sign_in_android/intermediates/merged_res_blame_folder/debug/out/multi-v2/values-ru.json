@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\rilon\\Jutta_pasal\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\values-ru\\values-ru.xml",
+            "outputFile": "/Users/pawan/Documents/selfcheckout/build/google_sign_in_android/intermediates/res/merged/debug/values-ru/values-ru.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\693e905576af25746ab711c1eaafb7e4\\jetified-play-services-base-18.0.1\\res\\values-ru\\values.xml",
+                    "source": "/Users/pawan/.gradle/caches/transforms-2/files-2.1/693e905576af25746ab711c1eaafb7e4/jetified-play-services-base-18.0.1/res/values-ru/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\80aa5a7ccd46ef3ad88c257ba4115b28\\core-1.6.0\\res\\values-ru\\values-ru.xml",
+                    "source": "/Users/pawan/.gradle/caches/transforms-2/files-2.1/80aa5a7ccd46ef3ad88c257ba4115b28/core-1.6.0/res/values-ru/values-ru.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\8953ca5c8c30192097b77325e3ddddda\\jetified-play-services-basement-18.0.0\\res\\values-ru\\values.xml",
+                    "source": "/Users/pawan/.gradle/caches/transforms-2/files-2.1/8953ca5c8c30192097b77325e3ddddda/jetified-play-services-basement-18.0.0/res/values-ru/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -57,10 +57,10 @@
             ]
         },
         {
-            "outputFile": "E:\\rilon\\Jutta_pasal\\build\\google_sign_in_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ru\\values-ru.xml",
+            "outputFile": "/Users/pawan/Documents/selfcheckout/build/google_sign_in_android/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\693e905576af25746ab711c1eaafb7e4\\jetified-play-services-base-18.0.1\\res\\values-ru\\values.xml",
+                    "source": "/Users/pawan/.gradle/caches/transforms-2/files-2.1/693e905576af25746ab711c1eaafb7e4/jetified-play-services-base-18.0.1/res/values-ru/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -77,7 +77,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\80aa5a7ccd46ef3ad88c257ba4115b28\\core-1.6.0\\res\\values-ru\\values-ru.xml",
+                    "source": "/Users/pawan/.gradle/caches/transforms-2/files-2.1/80aa5a7ccd46ef3ad88c257ba4115b28/core-1.6.0/res/values-ru/values-ru.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -94,7 +94,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\8953ca5c8c30192097b77325e3ddddda\\jetified-play-services-basement-18.0.0\\res\\values-ru\\values.xml",
+                    "source": "/Users/pawan/.gradle/caches/transforms-2/files-2.1/8953ca5c8c30192097b77325e3ddddda/jetified-play-services-basement-18.0.0/res/values-ru/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
